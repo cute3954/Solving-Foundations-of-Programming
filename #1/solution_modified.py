@@ -31,8 +31,3 @@ W = dict.find_longest_st(dict.S, dict.D)
 # wを出力する
 # apple
 print(W)
-
-
-
-
-
